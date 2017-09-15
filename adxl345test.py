@@ -1,4 +1,5 @@
 #-*- coding: UTF-8 -*-
+'''edit from https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=147353  '''
 import sys,os
 import spidev
 import time,datetime
